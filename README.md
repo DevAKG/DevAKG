@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm DevAKG 👋
 
-<!--
-**DevAKG/DevAKG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love turning code into something usefull and creative.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project
+**[Arcade-07](https://github.com/DevAKG/arcade-07)**
+> A handheld gaming console built with Arduino Uno and a MAX7219 LED Matrix. Features Snake and Space Defender game.
+
+---
+
+### 🛠️ My Toolbox
+* **Languages:** C++, Python, html-css
+* **Tools:** Git, Arduino IDE, cisco, etc
+
+---
+
+### 🌱 What I'm Up To
+- 🔭 I’m currently working on expanding my Arcade suite.
+- 🌱 I’m currently learning towards data science.
+
+---
+
+### 📫 Connect with Me
+* [GitHub](https://github.com/DevAKG)
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevAKG&show_icons=true&theme=radical)
