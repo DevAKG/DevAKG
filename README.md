@@ -6,7 +6,7 @@ I love turning code into something usefull and creative.
 
 ### 🚀 Featured Project
 **[Arcade-07](https://github.com/DevAKG/arcade-07)**
-> A handheld gaming console built with Arduino Uno and a MAX7219 LED Matrix. Features Snake and Space Defender game.
+> A handheld gaming console built with Arduino Uno and a MAX7219 LED Matrix. Currently features 4 games.
 
 ---
 
